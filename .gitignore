@@ -1,0 +1,9 @@
+.settings
+/target/m2e-wtp
+/target/maven-archiver
+/target/maven-status
+/target/springmvc
+/target/generated-sources
+/target/test-classes
+.classpath
+.project
